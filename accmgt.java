@@ -3,3 +3,4 @@ debit cards
 savings
 checklig
 overdraft
+Manager
